@@ -1,0 +1,106 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ff4747;
+    color: #333;
+}
+
+.az {
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+h1{
+    color: forestgreen;
+
+    
+}
+
+.image {
+    width: 500px;
+    height: auto;
+    border-radius: 100px;
+    margin: 20px 0;
+    padding-left: 30px;
+
+}
+
+.r7{
+
+    width: 500px;
+    height: auto;
+    border-radius: 100px;
+    margin: 20px 0;
+
+}
+
+.aaa {
+    font-size: 1.8em;
+    color: #a2b3ff;
+    margin-bottom: 15px;
+}
+
+.description {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 600px;
+    color: #ffffff;
+}
+
+.link {
+    display: inline-block;
+    margin-top: 40px;
+    font-size: 1.2em;
+    color: #ffffff;
+    background-color: #00ff37;
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+
+.link:hover {
+    background-color: #1ba364;
+    box-shadow: #1ba364 30px;
+}
+
+.portugal{
+
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 600px;
+    color: #ffffff;
+
+}
+
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  
+
+  .record{
+
+    text-align: left;
+    color: #ffffff;
+    padding-left: 20px;
+    background-color: #333;
+  }
+   .jeugd {
+
+    text-align: left;
+    color: #ffffff;
+    padding-right: 20px;
+    background-color: #333;
+    
+   }
+ h2{
+
+    color: #ffffff;
+ }
